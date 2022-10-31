@@ -1,0 +1,13 @@
+.card-container{
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color: rgb(0, 128, 128);
+    margin: 2rem;
+    width: 15rem;
+    height: auto;
+}
+
+.cancel-button{
+    background-color: rgb(0, 128, 128);
+    margin-bottom: 1rem;
+}
